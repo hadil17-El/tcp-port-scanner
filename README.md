@@ -4,6 +4,9 @@
 
 This is a beginner-level cybersecurity project that scans common TCP ports on a given host.
 
+⚠️ Questo progetto è solo a scopo educativo.  
+Non usare questo strumento per scansionare reti senza autorizzazione.
+
 ## Usage
 Run with Python 3:
 ```bash
